@@ -4,7 +4,7 @@
 ⬆️floating &amp; spinning🔄 floppy disk emojis, in various pridely patterns
 
 emojis were apngified for Akkoma via the following command:  
-```ffmpeg -r 30 -i %04d.png -plays 0 -filter scale=32:32 -r 20 out.apng```  
+```ffmpeg -r 30 -i %04d.png -plays 0 -filter scale=32:32 -r 20 out.apng```   
 and webmified for Telegram via the following command:  
 ```ffmpeg -r 30 -i %04d.png out.webm```
 
