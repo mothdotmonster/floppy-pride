@@ -1,5 +1,4 @@
-# floppy-pride
-![floppy disk](https://github.com/mothdotmonster/floppy-pride/blob/main/emoji/floppy-pride.png?raw=true)
+# floppy-pride ![rainbow pride flag floppy disk](https://github.com/mothdotmonster/floppy-pride/blob/main/emoji/floppy-pride.png?raw=true)
 
 ⬆️floating &amp; spinning🔄 floppy disk emojis, in various pridely patterns
 
